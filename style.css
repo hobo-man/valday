@@ -1,0 +1,16 @@
+* {
+    background-color: rgba(232, 73, 187, 0.603);
+}
+H1 {
+    size: 3rem;
+    text-align: center;
+}
+h2{
+    text-align: right;
+}
+iframe{
+    display: flex;
+    justify-content: center;
+    width:100%;
+    height: auto;
+}
